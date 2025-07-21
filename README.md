@@ -63,7 +63,10 @@ delivery; facilitated a 30% faster syllabus distribution to students, improving 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ramyasreelanka5&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramyasreelanka5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasreelanka5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyasreelanka5&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Ramya's GitHub Streak](https://streak-stats.demolab.com?user=ramyasreelanka5&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasreelanka5&layout=compact&theme=dark&hide_border=false)
 
