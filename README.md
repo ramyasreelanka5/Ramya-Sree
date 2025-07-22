@@ -75,13 +75,14 @@ Passionate and motivated Computer Science student with a strong interest in Soft
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramyasreelanka5&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Ramya's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasreelanka5&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+
+![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyasreelanka5&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasreelanka5&layout=compact&theme=dark&hide_border=false)
+
 
 ---
+
 
 ## 📫 Let's Connect
 
