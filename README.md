@@ -52,7 +52,7 @@ Passionate and motivated Computer Science student with a strong interest in Soft
 
 ## 💼 Experience
 
-### 🌐 Software Development Intern  
+### 🌐 Web Development Intern  
 **National Institute of Technology, Andhra Pradesh**  
 📅 *May 2025 – July 2025*  
 **Tech Stack**: Django, PostgreSQL, JavaScript, HTML/CSS  
